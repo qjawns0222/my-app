@@ -1,0 +1,21 @@
+.wrap {
+  display: flex;
+  justify-content: space-around;
+}
+.put > textarea {
+  height: 50%;
+  width: 100%;
+}
+.put {
+  width: 50%;
+  height: 50rem;
+}
+.put button {
+  width: 100%;
+}
+.over {
+  background-color: red;
+}
+.notover {
+  background-color: blue;
+}
