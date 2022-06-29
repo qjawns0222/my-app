@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.96f5073e.css",
-    "main.js": "/static/js/main.047e103f.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/index.html",
-    "main.96f5073e.css.map": "/static/css/main.96f5073e.css.map",
-    "main.047e103f.js.map": "/static/js/main.047e103f.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/qjawns0222/my-app.git/static/css/main.96f5073e.css",
+    "main.js": "/qjawns0222/my-app.git/static/js/main.28319e8f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/qjawns0222/my-app.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/qjawns0222/my-app.git/index.html",
+    "main.96f5073e.css.map": "/qjawns0222/my-app.git/static/css/main.96f5073e.css.map",
+    "main.28319e8f.js.map": "/qjawns0222/my-app.git/static/js/main.28319e8f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/qjawns0222/my-app.git/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96f5073e.css",
-    "static/js/main.047e103f.js"
+    "static/js/main.28319e8f.js"
   ]
 }
