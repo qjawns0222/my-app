@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/qjawns0222/my-app.git/static/css/main.96f5073e.css",
-    "main.js": "/qjawns0222/my-app.git/static/js/main.28319e8f.js",
+    "main.css": "/qjawns0222/my-app.git/static/css/main.df518f3e.css",
+    "main.js": "/qjawns0222/my-app.git/static/js/main.803cea9a.js",
     "static/js/787.28cb0dcd.chunk.js": "/qjawns0222/my-app.git/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/qjawns0222/my-app.git/index.html",
-    "main.96f5073e.css.map": "/qjawns0222/my-app.git/static/css/main.96f5073e.css.map",
-    "main.28319e8f.js.map": "/qjawns0222/my-app.git/static/js/main.28319e8f.js.map",
+    "main.df518f3e.css.map": "/qjawns0222/my-app.git/static/css/main.df518f3e.css.map",
+    "main.803cea9a.js.map": "/qjawns0222/my-app.git/static/js/main.803cea9a.js.map",
     "787.28cb0dcd.chunk.js.map": "/qjawns0222/my-app.git/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96f5073e.css",
-    "static/js/main.28319e8f.js"
+    "static/css/main.df518f3e.css",
+    "static/js/main.803cea9a.js"
   ]
 }
